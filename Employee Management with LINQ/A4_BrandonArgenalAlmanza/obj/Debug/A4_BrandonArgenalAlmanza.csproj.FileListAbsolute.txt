@@ -1,0 +1,7 @@
+H:\COMP 123 (SEM 2)\A4_BrandonArgenalAlmanza\A4_BrandonArgenalAlmanza\obj\Debug\A4_BrandonArgenalAlmanza.csproj.AssemblyReference.cache
+H:\COMP 123 (SEM 2)\A4_BrandonArgenalAlmanza\A4_BrandonArgenalAlmanza\obj\Debug\A4_BrandonArgenalAlmanza.csproj.CoreCompileInputs.cache
+H:\COMP 123 (SEM 2)\A4_BrandonArgenalAlmanza\A4_BrandonArgenalAlmanza\bin\Debug\A4_BrandonArgenalAlmanza.exe.config
+H:\COMP 123 (SEM 2)\A4_BrandonArgenalAlmanza\A4_BrandonArgenalAlmanza\bin\Debug\A4_BrandonArgenalAlmanza.exe
+H:\COMP 123 (SEM 2)\A4_BrandonArgenalAlmanza\A4_BrandonArgenalAlmanza\bin\Debug\A4_BrandonArgenalAlmanza.pdb
+H:\COMP 123 (SEM 2)\A4_BrandonArgenalAlmanza\A4_BrandonArgenalAlmanza\obj\Debug\A4_BrandonArgenalAlmanza.exe
+H:\COMP 123 (SEM 2)\A4_BrandonArgenalAlmanza\A4_BrandonArgenalAlmanza\obj\Debug\A4_BrandonArgenalAlmanza.pdb
