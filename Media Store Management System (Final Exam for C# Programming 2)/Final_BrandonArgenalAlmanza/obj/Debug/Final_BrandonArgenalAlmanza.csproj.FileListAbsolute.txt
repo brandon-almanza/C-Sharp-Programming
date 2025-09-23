@@ -1,0 +1,7 @@
+H:\COMP 123 (SEM 2)\Final_BrandonArgenalAlmanza\Final_BrandonArgenalAlmanza\bin\Debug\Final_BrandonArgenalAlmanza.exe.config
+H:\COMP 123 (SEM 2)\Final_BrandonArgenalAlmanza\Final_BrandonArgenalAlmanza\bin\Debug\Final_BrandonArgenalAlmanza.exe
+H:\COMP 123 (SEM 2)\Final_BrandonArgenalAlmanza\Final_BrandonArgenalAlmanza\bin\Debug\Final_BrandonArgenalAlmanza.pdb
+H:\COMP 123 (SEM 2)\Final_BrandonArgenalAlmanza\Final_BrandonArgenalAlmanza\obj\Debug\Final_BrandonArgenalAlmanza.csproj.AssemblyReference.cache
+H:\COMP 123 (SEM 2)\Final_BrandonArgenalAlmanza\Final_BrandonArgenalAlmanza\obj\Debug\Final_BrandonArgenalAlmanza.csproj.CoreCompileInputs.cache
+H:\COMP 123 (SEM 2)\Final_BrandonArgenalAlmanza\Final_BrandonArgenalAlmanza\obj\Debug\Final_BrandonArgenalAlmanza.exe
+H:\COMP 123 (SEM 2)\Final_BrandonArgenalAlmanza\Final_BrandonArgenalAlmanza\obj\Debug\Final_BrandonArgenalAlmanza.pdb
