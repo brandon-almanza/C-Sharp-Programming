@@ -1,0 +1,6 @@
+729,001,Jamy Doe,23,True,True
+729,002,Amy Virk,35,True,True
+729,005,Melody Lynn,20,False,True
+498,003,Andrew Kim,25,False,True
+498,002,Justin Tims,32,True,True
+498,006,Lily Blake,17,False,False
