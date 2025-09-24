@@ -1,2 +1,2 @@
 # C-Sharp-Programming
-Academic C# Projects from 2025 Jan - 2025 April
+Academic C# Assignments from 2025 Jan - 2025 April
